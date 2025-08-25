@@ -62,7 +62,7 @@ Klicke [hier](https://github.com/bazi24/PzHbzShowcase/releases/download/v1.0/PzH
 
 #### Entwicklermodus aktivieren
 
-Folge dieser [Anleitung](./konfiguration.md#1-entwicklereinstellungen-aktivieren), um den Entwicklermodus auf der PICO 4 zu aktivieren.
+Folge dieser [Anleitung](./konfiguration.md#entwicklereinstellungen-aktivieren), um den Entwicklermodus auf der PICO 4 zu aktivieren.
 
 #### USB-Datenübertragung aktivieren
 
