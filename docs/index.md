@@ -8,6 +8,8 @@ Dieses Benutzerhandbuch soll alle Fragen rund um die Showcase-App der Panzerhaub
 
 * **[Installation der App:](./anleitungen/installation.md)** *Normalerweise ist die App bereits auf deinem Gerät vorinstalliert. Sollte eine Neuinstallation erforderlich sein, findest du hier eine Schritt-für-Schritt-Anleitung.*
 
+* **[Bedienung VR-Brille:](./anleitungen/vrbedienung.md)** *Hier findest du einen Überblick über die grundsätzliche Bedienung der VR-Brille. Wie schalte ich sie ein? Wie benutze ich die Controller?*
+
 * **[Wichtige Einstellungen:](./anleitungen/konfiguration.md)** *Hier findest du eine Übersicht über wichtige Konfigurationen deiner PICO 4, die dir das bestmögliche Erlebnis mit der App ermöglichen.*
 
 * **[Grundlagen der Bedienung:](./anleitungen/steuerung.md)** *Die Bedienung der App ist denkbar einfach. Im Folgenden findest du eine detaillierte Beschreibung, die dir alle möglichen Steuerungen im Detail erklärt.*

@@ -41,6 +41,7 @@ markdown_extensions:
 
 nav:
   - Startseite: index.md
+  - Bedienung VR-Brille: 'anleitungen/vrbedienung.md'
   - Installation: 'anleitungen/installation.md'
   - Wichtige Einstellungen: 'anleitungen/konfiguration.md'
   - Bedienung: 'anleitungen/steuerung.md'
