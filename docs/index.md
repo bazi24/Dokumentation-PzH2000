@@ -2,6 +2,8 @@
 
 Dieses Benutzerhandbuch soll alle Fragen rund um die Showcase-App der Panzerhaubitze 2000 klären.
 
+---
+
 ## Inhaltsverzeichnis
 
 * **[Installation der App:](./anleitungen/installation.md)** *Normalerweise ist die App bereits auf deinem Gerät vorinstalliert. Sollte eine Neuinstallation erforderlich sein, findest du hier eine Schritt-für-Schritt-Anleitung.*
