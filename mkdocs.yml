@@ -1,0 +1,50 @@
+# Projektinformationen
+site_name: Benutzerhandbuch der PzH2000 Anwendung  # Der Name, der oben links angezeigt wird
+site_author: Sandro Simmeth
+site_description: >-
+  Ein Benutzerhandbuch für die VR-Anwendung, um die Panzerhaubitze 2000 zu erkunden
+
+# Theme-Konfiguration (Das ist der wichtigste Teil!)
+theme:
+  name: material
+  language: de  # Stellt die Sprache auf Deutsch um (z.B. für "Suchen")
+  logo: assets/logo.jpg # Optional: Füge dein Logo hinzu (siehe Hinweis unten)
+  palette:
+    # Ermöglicht einen hellen und einen dunklen Modus
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: In den dunklen Modus wechseln
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: In den hellen Modus wechseln
+  features:
+    - navigation.tabs # Für eine Hauptnavigation oben
+    - navigation.sections # Klappt die Bereiche in der linken Leiste auf
+    - toc.integrate # Integriert das Inhaltsverzeichnis der Seite links
+    - navigation.top # "Zurück nach oben"-Button
+    - search.suggest # Autovervollständigung bei der Suche
+    - content.tabs.link # Verlinkbare Tabs in Inhalten
+    - content.code.copy # "Kopieren"-Button für Code-Blöcke
+
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
+  - md_in_html
+
+nav:
+  - Startseite: index.md
+  - Installation: 'anleitungen/installation.md'
+  - Wichtige Einstellungen: 'anleitungen/konfiguration.md'
+  - Bedienung: 'anleitungen/steuerung.md'
+  - Mehrspieler: 'anleitungen/multiplayer.md'
+  - Features: 'anleitungen/features.md'
+  - Bildschirm übertragen: 'anleitungen/bildschirm.md'
+  - PzH-Anwendung für die Stele: 'anleitungen/stele.md'
