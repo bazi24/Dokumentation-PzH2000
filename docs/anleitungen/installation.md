@@ -98,5 +98,3 @@ Klicke auf die heruntergeladene Datei **PzH2000.apk** und drücke anschließend 
 ![Screenshot aus der PICO 4: Herunterladen](../assets/images/installieren.jpeg){ width="600" }
 
 Nun ist die aktuellste Version der App installiert
-
----

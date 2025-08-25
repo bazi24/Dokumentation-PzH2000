@@ -28,5 +28,10 @@ Um das Menü zu bedienen richte den Strahl des Controllers auf das entsprechende
 
 ![PICO 4 Controller](../assets/images/menu-bedienen.jpeg){ width="400" }
 
+---
 
+## Lautstärke anpassen
 
+Du änderst die Lautstärke mit den **(+)** und **(-)** Tasten, die du an der Oberseite des rechten Bügels findest. Für das beste Erlebnis stelle die Lautstärke mindestens auf die Hälfte ein.
+
+![Foto PICO 4: Lautstärke Tasten](../assets/images/lautstärke.jpg){ width="400" }

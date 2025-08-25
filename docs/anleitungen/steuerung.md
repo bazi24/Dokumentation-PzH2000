@@ -37,6 +37,8 @@ Nach dem Start der App kannst du nach unten auf deine Controller blicken. Die ei
 
 ![Screenshot aus der PICO 4: Controller in der App](../assets/images/controller.jpeg){ width="600" }
 
+---
+
 ### Bewegung im Raum
 Um dich um die Haubitze zu bewegen, gehe einfach in der realen Welt um sie herum.
 
@@ -50,17 +52,23 @@ Um dich um die Haubitze zu bewegen, gehe einfach in der realen Welt um sie herum
 
 Der rechte Controller wird zum Interagieren mit der Panzerhaubitze 2000 benutzt. Du kannst damit Infopunkte **aktivieren**, **schließen** und im [Mehrspieler](./multiplayer.md)-Modus den, für andere sichtbaren **Zeigestrahl** aktivieren.
 
+---
+
 #### Infopunkte aktivieren
 
 Infopunkte werden durch den **Trigger** aktiviert. Dieser wird mit dem rechten Zeigefinger gedrückt und ist die primäre Taste für die Interaktion. Richte den Strahl des Controllers auf einen **Infopunkt** und drücke den Trigger, um ihn zu **aktivieren**.
 
 ![PICO 4 Controller: Trigger rechter Controller](../assets/images/trigger.png){ width="400" }
 
+---
+
 #### Infopunkte schliessen
 
 Um einen aktivierten Infopunkt zu **schließen** wirde der **B**-Knopf genutzt. Im Falle eines Video-Infopunkts, wird das Video gestoppt, beim erneuten aktiveren wird es von vorne abgespielt.
 
 ![PICO 4 Controller: B-Button](../assets/images/b-button.png){ width="400" }
+
+---
 
 #### Der Zeigestrahl
 
@@ -76,6 +84,8 @@ Der linke Controller wird zum Einstellen der Szene genutzt. Mit ihm kannst du di
 
 *<span style= "color:red;">Achtung! Achte auf deine Umgebung bei eingeschalteten Hintergründen. Hier besteht Verletzungsgefahr!</span>*
 
+---
+
 #### Panzerhaubitze bewegen
 
 Um die Panzerhaubitze entsprechend deiner Handbewegung zu bewegen wird der **Grip**-Knopf des linken Controllers genutzt. Hierbei wird die Panzerhaubitze an deinen Controllerstrahl geheftet und du kannst sie frei platzieren.
@@ -89,6 +99,8 @@ Du kannst die Panzerhaubitze mit dem **Joystick** deines linken Controllers bewe
 * Bewege ihn nach **vorne** oder **hinten**, um die Ansicht zu **vergrößern** oder zu **verkleinern**.
 
 ![PICO 4 Controller: B-Button](../assets/images/joystick.png){ width="400" }
+
+---
 
 #### Hintergrund wechseln
 
