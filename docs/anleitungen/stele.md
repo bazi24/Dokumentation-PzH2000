@@ -25,7 +25,9 @@ Um die VR-App auf z.B. Messen zu bewerben, gibt es eine Anwendung für die digit
 1. Lade die Datei entweder direkt auf die Stele herunter oder auf einen PC herunter.
 2. Verschiebe die ZIP-Datei ggfs. auf die Stele
 3. **Entpacke** die ZIP-Datei auf der Stele. Berühre dazu für ca. 3 Sekunden die ZIP-Datei und wähle anschließend **"Alle extrahieren..."** aus.
+
     ![Screenshot Windows: ZIP-entpacken](../assets/images/stele.png){ width="600" }
+    
 4. Wechsle in den entpackten Ordner. Durch Doppelklick auf **PzHbz-Stele.exe** wird die Anwendung gestartet
 
 ---
