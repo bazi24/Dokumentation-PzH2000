@@ -18,7 +18,7 @@ Um die Controller einzuschalten, nimm sie in die Hand und drücke den **PICO Kno
 
 ![PICO 4 Controller](../assets/images/pico-button.png){ width="400" }
 
-* ***Beachte:*** Der Controller mit den Tasten **X** und **Y** ist für die **rechte Hand**. Der mit den Tasten **A** und **B** ist für die **linke Hand**.
+* ***Beachte:*** Der Controller mit den Tasten **A** und **B** ist für die **rechte Hand**. Der Controller mit den Tasten **X** und **Y** ist für die **linke Hand**. 
 
 ---
 
