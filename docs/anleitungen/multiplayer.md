@@ -10,7 +10,7 @@ Für den Mehrspielermodus ist eine **stabile Internetverbindung** erforderlich. 
 
 * **Hintergründe:** Der ausgewählte Hintergrund wird für alle im Multiplayer-Modus synchronisiert.
 
-* **Zeigestrahl:** Aktiviere den Zeigestrahl, um auf Objekte zu zeigen, die dann auch für die anderen Spieler sichtbar sind.
+* **Zeigestrahl:** Aktiviere den Zeigestrahl, um auf bestimmte Stellen an der Haubitze zu zeigen. Der Strahl ist dann für alle Spieler sichtbar.
 
 ---
 

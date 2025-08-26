@@ -1,30 +1,31 @@
 # Wichtige Einstellungen in der PICO 4
 
-Dieser Bereich enthält alle wichtigen Konfigiurationen der PICO 4, um das bestmögliche Erlebnis sicherzustellen.
+Dieser Bereich enthält alle wichtigen Einstellungen der PICO 4, um das bestmögliche Erlebnis sicherzustellen.
 
 ---
 
 ## Mit dem Internet verbinden
 
-Klicke unten im Dock auf **Schnelleinstellungen**.
+1. Klicke unten im Dock auf **Schnelleinstellungen**.
 
-![Screenshot aus der PICO 4: Schnelleinstellungen öffnen](../assets/images/schnelleinstellungen.jpeg){ width="600" }
+    ![Screenshot aus der PICO 4: Schnelleinstellungen öffnen](../assets/images/schnelleinstellungen.jpeg){ width="600" }
 
-Klicke unten in den Schnelleinstellungen auf **WLAN**.
+2. Klicke unten in den Schnelleinstellungen auf **WLAN**.
 
-![Screenshot aus der PICO 4: WLAN Einstellungen öffnen](../assets/images/wlan.jpeg){ width="600" }
+    ![Screenshot aus der PICO 4: WLAN Einstellungen öffnen](../assets/images/wlan.jpeg){ width="600" }
 
-**Aktiviere** in den WLAN-Einstellungen das WLAN der PICO 4 und verbinde dich mit dem entsprechenden Zugangspunkt.
+3. **Aktiviere** in den WLAN-Einstellungen das WLAN der PICO 4 und verbinde dich mit dem entsprechenden Zugangspunkt.
 
-![Screenshot aus der PICO 4: Schnelleinstellungen öffnen](../assets/images/wlan_aktivieren.jpeg){ width="600" }
+    ![Screenshot aus der PICO 4: Schnelleinstellungen öffnen](../assets/images/wlan_aktivieren.jpeg){ width="600" }
 
 ---
 
 ## Entwicklereinstellungen aktivieren
 
-Gehe in deiner PICO 4 in die **Einstellungen > Allgemein > Über**. Klicke dort so oft auf **Softwareversion**, bis links der Reiter **Entwickler** erscheint.
+1. Gehe in deiner PICO 4 in die **Einstellungen > Allgemein > Über**.
+2. Klicke dort so oft auf **Softwareversion**, bis links der Reiter **Entwickler** erscheint.
 
-![Screenshot aus der PICO 4: Entwicklereinstellungen](../assets/images/entwicklertools.jpeg){ width="600" }
+    ![Screenshot aus der PICO 4: Entwicklereinstellungen](../assets/images/entwicklertools.jpeg){ width="600" }
 
 ---
 
@@ -35,9 +36,9 @@ Um dich frei und ohne Begrenzungen im Raum bewegen zu können ist es von Vorteil
 
 2. Navigiere zu **Einstellungen > Entwickler**. Deaktiviere hier die Schaltfläche **Spielbereich**.
 
-*<span style= "color:red;">Achtung! Achte auf deine Umgebung bei virtuellen Hintergründen. Hier besteht Verletzungsgefahr!</span>*
+    ![Screenshot aus der PICO 4: Spielbereich deaktivieren](../assets/images/spielbereich.jpeg){ width="600" }
 
-![Screenshot aus der PICO 4: Spielbereich deaktivieren](../assets/images/spielbereich.jpeg){ width="600" }
+*<span style= "color:red;">Achtung! Achte auf deine Umgebung bei virtuellen Hintergründen. Hier besteht Verletzungsgefahr!</span>*
 
 ---
 
@@ -58,8 +59,9 @@ Da die VR-Brillen beim Start unterschiedlich zentriert sein können, muss der Bi
 ## Auf Werkseinstellungen zuruecksetzen
 Wenn die Kameradurchsicht nicht funktioniert bzw. die App allgemein nicht richtig funktioniert, solltest du deine PICO 4 auf **Werkseinstellungen** zurücksetzen.
 
-Gehe auf **Einstellungen > Allgemein > Auf Werkseinstellung zurücksetzen** dann drücke auf **Auf Werkseinstellung zurücksetzen**.
+1. Gehe auf **Einstellungen > Allgemein > Auf Werkseinstellung zurücksetzen**.
+2. Drücke auf **Auf Werkseinstellung zurücksetzen**.
 
-![Screenshot aus der PICO 4: Auf Werkseinstellungen zurücksetzen](../assets/images/werkseinstellungen.jpeg){ width="600" }
+    ![Screenshot aus der PICO 4: Auf Werkseinstellungen zurücksetzen](../assets/images/werkseinstellungen.jpeg){ width="600" }
 
 *<span style= "color:red;">Achtung! Nach dem Zurücksetzen musst du die App neu installieren. Hierzu findest du [hier](./installation.md) eine detaillierte Anleitung</span>*

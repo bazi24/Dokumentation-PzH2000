@@ -1,6 +1,6 @@
 # Installation der App
 
-Hier wird erklärt, wie du die VR Anwendung "PzH 2000" auf der PICO 4 VR-Brille installieren bzw. updaten kannst.
+Hier wird erklärt, wie du die VR-Anwendung *PzH2000* auf der PICO 4 VR-Brille installieren bzw. updaten kannst.
 
 ---
 

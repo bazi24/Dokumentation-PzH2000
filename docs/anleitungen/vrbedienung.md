@@ -10,19 +10,21 @@ Um die PICO 4 einzuschalten, halte einfach den **länglichen Knopf** auf der **r
 
 ---
 
-## Controller
+## Controller einschalten
 
-### Controller einschalten
+Um die Controller einzuschalten:
 
-Um die Controller einzuschalten, nimm sie in die Hand und drücke den **PICO Knopf** so lange bis du ihn virtuell in der Brille sehen kannst.
+1. Nimm die Controller in die Hand.
+
+2. Halte den PICO-Knopf so lange gedrückt, bis die Controller in deiner VR-Brille erscheinen.
 
 ![PICO 4 Controller](../assets/images/pico-button.png){ width="400" }
 
-* ***Beachte:*** Der Controller mit den Tasten **A** und **B** ist für die **rechte Hand**. Der Controller mit den Tasten **X** und **Y** ist für die **linke Hand**. 
+***Hinweis:*** Der Controller mit den Tasten **A** und **B** ist für die **rechte Hand**. Der Controller mit den Tasten **X** und **Y** ist für die **linke Hand**. 
 
 ---
 
-### Menü bedienen
+## Controller benutzen
 
 Um das Menü zu bedienen richte den Strahl des Controllers auf das entsprechende Icon im Menü und drücke den **Trigger**, dieser wird mit dem **Zeigefinger** bedient.
 
